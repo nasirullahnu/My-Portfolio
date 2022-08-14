@@ -1,3 +1,10 @@
+main{
+    overflow: hidden;
+}
+
 .raw-nav{
     background-color: cyan;
+}
+.name{
+    color: orange;
 }
